@@ -1,7 +1,7 @@
 # mice-protein-expression_clustering
 
 #### Application of: 
-     -PCA, 
+     - PCA, 
      - KMeans and 
      - KMedoids to the detaset,
      - selection of best working model.
