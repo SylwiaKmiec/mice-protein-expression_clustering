@@ -2,7 +2,11 @@
 
 #### Application of: 
      - PCA, 
-     - KMeans and 
-     - KMedoids to the detaset,
-     - selection of best working model.
+     - KMeans  
+     - KMedoids
+     - DBSCAN
+     - OPTICS
+     - Agglomerative Hierarchical
+     - Fuzzy C-Means 
+     - Selection of the best based on Silhouette Score and visualization 
  
